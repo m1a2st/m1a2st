@@ -1,60 +1,12 @@
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C022%20hrs%2010%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                706 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-🌆 Daytime                523 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-🌃 Evening                1161 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌙 Night                  694 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Wednesday                473 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Thursday                 565 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Friday                   432 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Saturday                 364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Sunday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-```
+# 💫 About Me:
+🔭 I’m currently working on Apache Kafka<br>👯 I’m looking to collaborate on open source project<br>🌱 I’m currently learning distributed systems<br>📝 I regularly write articles on https://hackmd.io/@m1a2st/<br>
 
 
-📊 **This Week I Spent My Time On** 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=m1a2st&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=m1a2st&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1a2st&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Java                     10 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Kotlin                   10 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Scala                    6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Markdown                 2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-
-🔥 Editors: 
-IntelliJ IDEA            34 hrs 49 mins      █████████████████████████   99.99 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Mac                      34 hrs 24 mins      █████████████████████████   98.79 % 
-Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     12 repos            ███████████████████░░░░░░   75.00 % 
-Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-
-
-
-
- Last Updated on 26/03/2025 00:28:22 UTC
-<!--END_SECTION:waka-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
