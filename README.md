@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C029%20hrs%206%20mins-blue)
 <!--END_SECTION:waka-->
-<h1 align="center">Hi 👋, I'm Jiunn-Yang Huang</h1>
+<h1 align="center">Hi, I'm Jiunn-Yang Huang</h1>
 <h3 align="center">Java Developer</h3>
 
 - 🔭 I’m currently working on [Apache Kafka](https://github.com/apache/kafka)
