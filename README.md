@@ -1,26 +1,60 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C029%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C022%20hrs%2010%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                706 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+🌆 Daytime                523 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+🌃 Evening                1161 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
+🌙 Night                  694 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Tuesday                  472 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Wednesday                473 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Thursday                 565 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Friday                   432 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Saturday                 364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Sunday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Java                     10 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Kotlin                   10 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Scala                    6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Markdown                 2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+
+🔥 Editors: 
+IntelliJ IDEA            34 hrs 49 mins      █████████████████████████   99.99 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Mac                      34 hrs 24 mins      █████████████████████████   98.79 % 
+Linux                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     12 repos            ███████████████████░░░░░░   75.00 % 
+Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+
+
+ Last Updated on 26/03/2025 00:28:22 UTC
 <!--END_SECTION:waka-->
-<h1 align="center">Hi, I'm Jiunn-Yang Huang</h1>
-<h3 align="center">Java Developer</h3>
-
-- 🔭 I’m currently working on [Apache Kafka](https://github.com/apache/kafka)
-
-- 📝 I regularly write articles on [https://hackmd.io/@m1a2st/](https://hackmd.io/@m1a2st/)
-
-- 💬 Ask me about **Java, Kafka**
-
-- 📫 How to reach me **s7133700@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jiunn-yang-huang](https://www.linkedin.com/in/jiunn-yang-huang)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1a2st&show_icons=true&locale=en&layout=compact" alt="m1a2st" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1a2st&show_icons=true&locale=en" alt="m1a2st" /></p>
